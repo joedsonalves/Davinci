@@ -201,7 +201,9 @@ root.mainloop()
 ```
 
 ## Recommendations
-The above script was developed to provide greater convenience when using the OpenAI tool. By integrating the API directly into the script, the program can be executed without the need for any additional setup. Conversely, the executable version requires the user to manually input the API into the graphical interface. Therefore, for those who have Python installed and wish to use the tool frequently, it is recommended to compile the example code with the OpenAI API. For casual users, it is more convenient to simply download the repository and input the API into the graphical interface as instructed.
+To use the OpenAI tool, you have the option of downloading the repository or using example code. If you choose to download the repository, you will need to download the .rar files named `"Davinci.part1.rar"`, `"Davinci.part2.rar"`, and `"Davinci.part3.rar"`. Only one of these .rar files needs to be unpacked and installed, but all three .rar files must be in the same folder for the installation to work. There is no need to unpack all three files.
+
+The above script was developed to make using the OpenAI tool more convenient. By integrating the API directly into the script, the program can be executed without any additional setup. Conversely, the executable version requires the user to manually input the API into the graphical interface. Therefore, if you have Python installed and plan to use the tool frequently, it is recommended that you compile the example code with the OpenAI API. For casual users, it is more convenient to simply download the repository and input the API into the graphical interface as instructed.
 
 
 ## Conclusion
